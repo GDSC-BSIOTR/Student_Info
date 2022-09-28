@@ -13,7 +13,16 @@
       "Fav_Subject": "Maths",
       "Hobby"    : "Football"
 
-    } 
+    },
+        {
+            "name":       "Yash ",
+      "Branch":      "Computer",
+      "Fav_Subject": "Maths",
+      "Hobby"    : "COding"
+            
+        }
+            
+            
 
 
 
