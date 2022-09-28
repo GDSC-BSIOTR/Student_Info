@@ -54,7 +54,14 @@
       "Branch":      "EnTC",
       "Fav_Subject":  "English",
       "Hobby"    :    "Singing"
+      },
+{
+        "name":       "Chaitra",
+      "Branch":      "EnTC",
+      "Fav_Subject":  "Maths",
+      "Hobby"    :    "Designing"
 
+    }
 
   ]
 }
