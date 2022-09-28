@@ -13,7 +13,15 @@
       "Fav_Subject": "Maths",
       "Hobby"    : "Football"
 
-    } 
+    },
+    
+    {
+        "name":       "Abhiraj ",
+      "Branch":      "E & TC",
+      "Fav_Subject": "maths",
+      "Hobby"    : "Travelling"
+
+    },
 
 
 
