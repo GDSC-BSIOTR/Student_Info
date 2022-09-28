@@ -12,8 +12,8 @@
       "Branch":      "Computer",
       "Fav_Subject": "Maths",
       "Hobby"    : "Football"
+      },
 
-    } 
     {
 
       "name":       "shruti",
@@ -24,7 +24,15 @@
 
       "Hobby"    : "cricket"
 
-    } 
+    } ,
+    
+    {
+        "name":       "Abhiraj ",
+      "Branch":      "E & TC",
+      "Fav_Subject": "maths",
+      "Hobby"    : "Travelling"
+
+    },
 
 
 
