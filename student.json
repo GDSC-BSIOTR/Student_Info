@@ -1,5 +1,5 @@
 {
-    "employee": [
+    "Student": [
       {
         "name":       "Gaurav Dhokchaule",
         "Branch":      "Computer",
@@ -37,8 +37,8 @@
     {
         "name":       "mangal ",
       "Branch":      "cs",
-      "Fav_Subject": "maths",
-      "Hobby"    : "teaching"
+      "Fav_Subject":  "maths",
+      "Hobby"    :    "teaching"
 
     },
 
