@@ -34,7 +34,13 @@
 
     },
 
+    {
+        "name":       "mangal ",
+      "Branch":      "cs",
+      "Fav_Subject": "maths",
+      "Hobby"    : "teaching"
 
+    },
 
 
   ]
