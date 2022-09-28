@@ -48,6 +48,17 @@
       "Hobby"    :    "Painting"
 
     },
+        
+        {
+        "name":       "Chaitra",
+      "Branch":      "EnTC",
+      "Fav_Subject":  "Maths",
+      "Hobby"    :    "Designing"
+
+    },
+        
+        
+   
 
 
   ]
