@@ -70,5 +70,12 @@
 
     }
 
+ {        
+        "name":       "kranti",
+      "Branch":      "Computer",
+      "Fav_Subject":  "Math",
+      "Hobby"    :    "Drawing"
+
+    }
   ]
 }
