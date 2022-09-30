@@ -108,7 +108,7 @@
       "Fav_Subject":  "Math",
       "Hobby"    :    "Drawing"
 
-    }
+    },
 {
     "name":       "Meghsham Jade",
     "Branch":      "Entc",
@@ -248,6 +248,12 @@
       "Hobby"    :    "teaching"
 
     },
+{
+    "name":       "prathamesh shinde",
+    "Branch":      "It",
+    "Fav_Subject":   "PYTHON",
+    "Hobby"      :   "watching anime"
+},
 
       {
         "name":       "Gouri Rawas",
@@ -261,6 +267,10 @@
         "Branch":      " I.T",
         "Fav_Subject":   " DSS ",
         "Hobby"      :   " PLAYING GUITAR "
+
+    }
+    
+=======
     },
     
     
@@ -272,5 +282,6 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+
 
 ]
