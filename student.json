@@ -52,7 +52,7 @@
 
       "name":       "kirti",
 
-      "Branch":      "Computer",
+      "Branch":      "Version",
 
       "Fav_Subject": "Maths",
 
@@ -61,7 +61,7 @@
     } ,
     
     {
-        "name":       "Abhiraj ",
+        "name":       "Shubham ",
       "Branch":      "E & TC",
       "Fav_Subject": "maths",
       "Hobby"    : "Travelling"
@@ -114,7 +114,7 @@
 
 
     {
-        "name":       "mangal ",
+        "name":       "Ashok",
       "Branch":      "cs",
       "Fav_Subject":  "maths",
       "Hobby"    :    "teaching"
