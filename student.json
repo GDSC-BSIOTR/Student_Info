@@ -108,6 +108,13 @@
     "Fav_Subject":   "Java",
     "Hobby"      :   "Coding"
 },
+
+{
+    "name":       "Vyankatesh Patil",
+    "Branch":      "Entc",
+    "Fav_Subject":   "DBMS",
+    "Hobby"      :   "Coding"
+=======
 {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -116,6 +123,7 @@
 
     },
   ]
+
 }
 
 {
@@ -154,6 +162,9 @@
          "fav_subject":  "OS",
          "hobby":        "football",
     },
+
+              
+=======
       
     
         {
@@ -162,6 +173,7 @@
         "Fav_Subject",:   "Maths"
         "Hobby"       :    "Gaming"
         },    
+
         
         
         
@@ -190,6 +202,9 @@
         "Hobby"      :   "COmipitative programming"
     },
 
+]
+=======
+
     {
         "name":       "Rutuja ",
       "Branch":      "EnTC",
@@ -212,4 +227,5 @@
         "Hobby"      :   " PLAYING GUITAR "
     },
         
+
 
