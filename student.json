@@ -1,18 +1,27 @@
 {
     "Student": [
       {
-        "name":       "Gaurav Dhokchaule",
+        "name":       "lavda Dhokchaule",
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
 
     {
-      "name":       "Yash Mali",
+      "name":       "pruthviraj Mali",
       "Branch":      "Computer",
       "Fav_Subject": "Maths",
       "Hobby"    : "Football"
       },
+        
+        
+        {
+            "name":   "Pournima Parase",
+            "Branch":    "IT",
+            "Fav_Subject": "Maths",
+            "Hobby"  :  "Reading"
+        },
+        
 
     {
 
@@ -91,6 +100,13 @@
     "Fav_Subject":   "Java",
     "Hobby"      :   "Coding"
 },
+{        
+        "name":       "Pranita",
+      "Branch":      "Entc",
+      "Fav_Subject":  "Math",
+      "Hobby"    :    "Sketching"
+
+    },
   ]
 }
 
@@ -109,12 +125,37 @@
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
+
     {
       "name":       "Abhineya",
       "Branch":      "Computer",
       "Fav_Subject":   "Maths",
       "Hobby"      :   "Coding"
   },
+
+         {
+        "name":       "Prathamesh Ilag",
+        "Branch":      "IT",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Cricket"
+    },
+
+        
+=======
+        {
+         "name":         "saif ali",
+         "branch":       "information technology",
+         "fav_subject":  "OS",
+         "hobby":        "football",
+    },
+      
+    
+        {
+        "name":     "Omshree Gavhane",
+        "Branch":   "Computer",
+        "Fav_Subject",:   "Maths"
+        "Hobby"       :    "Gaming"
+        },    
         
         
         
@@ -126,9 +167,12 @@
         
         
         
-        
-        
-        
+         {
+        "name":       "Soham Auti",
+        "Branch":      "E & TC",
+        "Fav_Subject":   "Mathematics",
+        "Hobby"      :   "sports"
+    },
         
         
         
@@ -139,3 +183,10 @@
         "Fav_Subject":   "DBMS",
         "Hobby"      :   "COmipitative programming"
     },
+      {
+        "name":       "Gouri Rawas",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Computer Graphics",
+        "Hobby"      :   "Digital Designing"
+    },
+        
