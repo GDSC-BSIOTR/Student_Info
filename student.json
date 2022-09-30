@@ -2,8 +2,13 @@
     "Student": [
       {
 
+        "name":       "Satyam Kharate",
+        "Branch":      "Electronics",
+=======
+
         "name":       "Thombare Anuradha",
         "Branch":      "Information Technology",
+
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Reading"
 
@@ -18,6 +23,12 @@
 
     {
 
+      "name":       "Pradeep Koli",
+      "Branch":      "Computer",
+      "Fav_Subject": "Maths",
+      "Hobby"    : "Cricket"
+=======
+
       "name":       "Yash Sonawane ",
 =======
       "name":       "pruthviraj Mali",
@@ -25,6 +36,7 @@
       "Branch":      "Computer",
       "Fav_Subject": "Sanskrit ",
       "Hobby"    : "Football"
+
       },
         
         
@@ -38,7 +50,7 @@
 
     {
 
-      "name":       "shruti",
+      "name":       "kirti",
 
       "Branch":      "Computer",
 
@@ -55,6 +67,8 @@
       "Hobby"    : "Travelling"
 
     },
+
+=======
          {
         "name":       "bhargavi",
       "Branch":      "E & TC",
@@ -97,6 +111,7 @@
       "Hobby"    : "Travelling"
 
     },
+
 
     {
         "name":       "mangal ",
