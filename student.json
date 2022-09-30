@@ -399,6 +399,13 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+        
+     {
+        "name":       "Adnan Shaikh",
+        "Branch":      "CSE",
+        "Fav_Subject":   " DM ",
+        "Hobby"      :   " Reading "
+    }    
 
 
 ]
