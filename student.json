@@ -42,13 +42,6 @@
       "Hobby"    : "cricket"
 
     } ,
-        
-         {
-      "name":       "Pratiksha",
-      "Branch":      "Computer",
-      "Fav_Subject": "maths",
-      "Hobby"    : "coding"
-      },
     
     {
         "name":       "Abhiraj ",
@@ -187,7 +180,7 @@
         {
         "name":     "Omshree Gavhane",
         "Branch":   "Computer",
-        "Fav_Subject",:   "Maths",
+        "Fav_Subject",:    "Maths",
         "Hobby"       :    "Gaming"
         },    
 
