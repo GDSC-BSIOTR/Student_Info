@@ -125,13 +125,6 @@
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
-{
-    "name":       "Tushar Mourya",
-    "Branch":      "Entc",
-    "Fav_Subject":   "Java",
-    "Hobby"      :   "Coding"
-},
-
     },
         
          {
@@ -140,12 +133,21 @@
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
+
+    {
+      "name":       "Abhineya",
+      "Branch":      "Computer",
+      "Fav_Subject":   "Maths",
+      "Hobby"      :   "Coding"
+  },
+
          {
         "name":       "Prathamesh Ilag",
         "Branch":      "IT",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Cricket"
     },
+
         
 =======
         {
@@ -189,27 +191,16 @@
         "Fav_Subject":   "DBMS",
         "Hobby"      :   "COmipitative programming"
     },
-
-    {
-        "name":       "Rutuja ",
-      "Branch":      "EnTC",
-      "Fav_Subject":  "maths",
-      "Hobby"    :    "teaching"
-
-    },
-
       {
         "name":       "Gouri Rawas",
         "Branch":      "Computer",
         "Fav_Subject":   "Computer Graphics",
         "Hobby"      :   "Digital Designing"
     },
-        
-    {
-        "name":       " SAHIL YADAV ",
-        "Branch":      " I.T",
-        "Fav_Subject":   " DSS ",
-        "Hobby"      :   " PLAYING GUITAR "
+        {
+        "name":       "akshay ekhande",
+        "Branch":      "IT",
+        "Fav_Subject":   "maths",
+        "Hobby"      :   "cricket"
     },
         
-
