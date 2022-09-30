@@ -1,14 +1,14 @@
 {
     "Student": [
       {
-        "name":       "Gaurav Dhokchaule",
+        "name":       "lavda Dhokchaule",
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
 
     {
-      "name":       "Yash Mali",
+      "name":       "pruthviraj Mali",
       "Branch":      "Computer",
       "Fav_Subject": "Maths",
       "Hobby"    : "Football"
@@ -110,6 +110,21 @@
         "Hobby"      :   "Coding"
     },
         
+=======
+        {
+         "name":         "saif ali",
+         "branch":       "information technology",
+         "fav_subject":  "OS",
+         "hobby":        "football",
+    },
+      
+    
+        {
+        "name":     "Omshree Gavhane",
+        "Branch":   "Computer",
+        "Fav_Subject",:   "Maths"
+        "Hobby"       :    "Gaming"
+        },    
         
         
         
@@ -121,8 +136,12 @@
         
         
         
-        
-        
+         {
+        "name":       "Soham Auti",
+        "Branch":      "E & TC",
+        "Fav_Subject":   "Mathematics",
+        "Hobby"      :   "sports"
+    },
         
         
         
