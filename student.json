@@ -399,6 +399,13 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+        
+{        
+        "name":       "Pratiksha",
+      "Branch":      "IT",
+      "Fav_Subject":  "Math",
+      "Hobby"    :    "Cooking"
+},
         {
             "name":        "Shruti shinde",
             "Branch":       "Information Technology",
