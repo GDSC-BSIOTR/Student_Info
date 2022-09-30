@@ -400,6 +400,12 @@
         "Hobby"      :   " Painting "
     },
         
+     {
+        "name":       "Adnan Shaikh",
+        "Branch":      "CSE",
+        "Fav_Subject":   " DM ",
+        "Hobby"      :   " Reading "
+    }    
 {        
         "name":       "Pratiksha",
       "Branch":      "IT",
