@@ -33,6 +33,14 @@
       "Hobby"    : "Travelling"
 
     },
+        
+            {
+        "name":       "ASHISH ",
+      "Branch":      " IT ",
+      "Fav_Subject": "maths",
+      "Hobby"    : "Travelling"
+
+    },
 
     {
         "name":       "mangal ",
@@ -90,4 +98,53 @@
     "Hobby"      :   "Coding"
 }
 
-
+{
+    "Student": [
+      {
+        "name":       "Alok Singh",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Coding"
+    },
+        
+         {
+        "name":       "Gaurav Dhokchaule",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Coding"
+    },
+        {
+         "name":         "saif ali",
+         "branch":       "information technology",
+         "fav_subject":  "OS",
+         "hobby":        "football",
+    },
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         {
+        "name":       "Soham Auti",
+        "Branch":      "E & TC",
+        "Fav_Subject":   "Mathematics",
+        "Hobby"      :   "sports"
+    },
+        
+        
+        
+        
+            {
+        "name":       "Rushikesh suryawanshi",
+        "Branch":      "Computer",
+        "Fav_Subject":   "DBMS",
+        "Hobby"      :   "COmipitative programming"
+    },
+]
