@@ -94,12 +94,6 @@
       "Hobby"    :    "Designing"
 
     }
-        {
-    "name":       "Ishika Kaur Sandhu",
-    "Branch":      "Electrical",
-    "Fav_Subject":   "Power Electronics",
-    "Hobby"      :   "Playing Guitar"
-}
         {        
         "name":       "Anshulika",
       "Branch":      "EnTC",
@@ -194,6 +188,9 @@
         "name":     "Omshree Gavhane",
         "Branch":   "Computer",
 
+        "Fav_Subject",:   "Maths",
+=======
+
         "Fav_Subject",:    "Maths",
 =======
         "Fav_Subject":   "Maths",
@@ -265,6 +262,15 @@
         "Fav_Subject":   " DSS ",
         "Hobby"      :   " PLAYING GUITAR "
     },
-        
+    
+    
 
 
+   {
+        "name":       " Nikita Mane ",
+        "Branch":      "ENTC",
+        "Fav_Subject":   " DBMS ",
+        "Hobby"      :   " Painting "
+    },
+
+]
