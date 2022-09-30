@@ -426,8 +426,13 @@
         "Hobby"      :   "playing"
     },
 
+    {
+        "name":       " Pratik Gupta",
+        "Branch":      "Computer Science",
+        "Fav_Subject":   " Data Structures and Algorithms",
+        "Hobby"      :   " Competitive Programming"
+    },
 
-]
      {
         "name":       " kunal ",
         "Branch":      "ENTC",
@@ -440,3 +445,11 @@
         "Fav_Subject":   "DM",
         "Hobby"      :   "Cricket"
     },
+{
+        "name":       " nishant ",
+        "Branch":      "IT",
+        "Fav_Subject":   " DM ",
+        "Hobby"      :   " Cricket "
+    },
+
+]
