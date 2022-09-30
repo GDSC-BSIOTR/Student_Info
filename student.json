@@ -406,6 +406,25 @@
         "Fav_Subject":   " DM ",
         "Hobby"      :   " Reading "
     }    
+{        
+        "name":       "Pratiksha",
+      "Branch":      "IT",
+      "Fav_Subject":  "Math",
+      "Hobby"    :    "Cooking"
+},
+        {
+            "name":        "Shruti shinde",
+            "Branch":       "Information Technology",
+            "Fav_Subject":   "OOP",
+            "Hobby":         "volleyball",
+        },  
+        
+    {
+        "name":       "shivam borhade",
+        "Branch":      "Entc",
+        "Fav_Subject":   "science",
+        "Hobby"      :   "playing"
+    },
 
 
 ]
