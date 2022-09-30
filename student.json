@@ -27,10 +27,10 @@
       "Branch":      "Computer",
       "Fav_Subject": "Maths",
       "Hobby"    : "Cricket"
-
+=======
 
       "name":       "Yash Sonawane ",
-
+=======
       "name":       "pruthviraj Mali",
 
       "Branch":      "Computer",
@@ -68,7 +68,7 @@
 
     },
 
-
+=======
          {
         "name":       "bhargavi",
       "Branch":      "E & TC",
@@ -76,14 +76,6 @@
       "Hobby"    : "singing"
 
     },
-        {
-        "name":       "RUTUJA ",
-      "Branch":      "E & TC",
-      "Fav_Subject": "maths",
-      "Hobby"    : "Travelling"
-
-    },
-
         
 
         {
@@ -103,7 +95,7 @@
         "Hobby"      :   "Singing"
     },
         
-
+=======
     {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -183,7 +175,7 @@
     "Branch":      "Entc",
     "Fav_Subject":   "DBMS",
     "Hobby"      :   "Coding"
-
+=======
 {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -235,7 +227,7 @@
         "Hobby"      :   "Cricket"
     },
         
-
+=======
         {
          "name":         "saif ali",
          "branch":       "information technology",
@@ -243,7 +235,9 @@
          "hobby":        "football",
     },
 
-
+              
+=======
+      
     
         {
         "name":     "Omshree Gavhane",
@@ -279,6 +273,14 @@
       "name":       "Anuja chavan",
       "Branch":      "IT",
       "Fav_Subject": "DSA",
+      "Hobby"    : "Reading Books"
+      },
+        
+        
+      {
+      "name":       "MANGAL KASARE",
+      "Branch":      "COMPUTER",
+      "Fav_Subject": "OOP",
       "Hobby"    : "Reading Books"
       },
 
@@ -320,7 +322,7 @@
     },
 
 ]
-
+=======
 
     {
         "name":       "Rutuja ",
@@ -361,7 +363,8 @@
         "Fav_Subject":   "ELECTRONICS",
         "Hobby"      :   "TABLE TENNIS"
     },
-
+=======
+=======
     {
         "name":       " SAHIL YADAV ",
         "Branch":      " I.T",
@@ -370,7 +373,7 @@
 
     }
     
-
+=======
     },
 
         {
@@ -385,7 +388,7 @@
         "Fav_Subject":   "DSA",
         "Hobby"      :   "Coding"
     },
-
+=======
     
     
 
@@ -396,22 +399,6 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
-
-       {
-        "name":       " sakshi kuwar ",
-        "Branch":      "ENTC",
-        "Fav_Subject":   " CS ",
-        "Hobby"      :   " Drawing "
-    },
-
-        
-     {
-        "name":       "Pratik Lagad",
-        "Branch":      "entc",
-        "Fav_Subject":   "dbms",
-        "Hobby"      :   "Coding"
-    },
-
 
 
 ]
