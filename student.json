@@ -433,12 +433,17 @@
         "Hobby"      :   " Competitive Programming"
     },
 
-]
      {
         "name":       " kunal ",
         "Branch":      "ENTC",
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
+    },
+ {
+        "name":       "nishant singh",
+        "Branch":      "IT",
+        "Fav_Subject":   "DM",
+        "Hobby"      :   "Cricket"
     },
 {
         "name":       " nishant ",
@@ -447,4 +452,4 @@
         "Hobby"      :   " Cricket "
     },
 
-
+]
