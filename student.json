@@ -399,6 +399,12 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+        {
+            "name":        "Shruti shinde",
+            "Branch":       "Information Technology",
+            "Fav_Subject":   "OOP",
+            "Hobby":         "volleyball",
+        },  
         
     {
         "name":       "shivam borhade",
