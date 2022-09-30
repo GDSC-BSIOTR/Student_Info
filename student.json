@@ -42,13 +42,6 @@
       "Hobby"    : "cricket"
 
     } ,
-        
-         {
-      "name":       "Pratiksha",
-      "Branch":      "Computer",
-      "Fav_Subject": "maths",
-      "Hobby"    : "coding"
-      },
     
     {
         "name":       "Abhiraj ",
@@ -194,7 +187,14 @@
         {
         "name":     "Omshree Gavhane",
         "Branch":   "Computer",
+
         "Fav_Subject",:   "Maths",
+=======
+
+        "Fav_Subject",:    "Maths",
+=======
+        "Fav_Subject":   "Maths",
+
         "Hobby"       :    "Gaming"
         },    
 
@@ -230,6 +230,12 @@
         "Branch":      "Computer",
         "Fav_Subject":   "DBMS",
         "Hobby"      :   "COmipitative programming"
+    }
+{
+        "name":       "Shritej Sankpal",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Coding"
     },
 
 ]
