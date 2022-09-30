@@ -1,16 +1,24 @@
 {
     "Student": [
       {
+
+        "name":       "Arman Shaikh",
+=======
         "name":       "lavda Dhokchaule",
+
         "Branch":      "Computer",
-        "Fav_Subject":   "Maths",
-        "Hobby"      :   "Coding"
+        "Fav_Subject":   "English ",
+        "Hobby"      :   "Code "
     },
 
     {
+
+      "name":       "Yash Sonawane ",
+=======
       "name":       "pruthviraj Mali",
+
       "Branch":      "Computer",
-      "Fav_Subject": "Maths",
+      "Fav_Subject": "Sanskrit ",
       "Hobby"    : "Football"
       },
         
