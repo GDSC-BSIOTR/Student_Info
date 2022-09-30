@@ -426,6 +426,12 @@
         "Hobby"      :   "playing"
     },
 
+    {
+        "name":       " Pratik Gupta",
+        "Branch":      "Computer Science",
+        "Fav_Subject":   " Data Structures and Algorithms",
+        "Hobby"      :   " Competitive Programming"
+    },
 
 ]
      {
@@ -434,4 +440,5 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+
 
