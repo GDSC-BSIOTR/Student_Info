@@ -2,6 +2,12 @@
     "Student": [
       {
 
+        "name":       "Thombare Anuradha",
+        "Branch":      "Information Technology",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Reading"
+=======
+
         "name":       "Arman Shaikh",
 =======
         "name":       "lavda Dhokchaule",
@@ -9,6 +15,7 @@
         "Branch":      "Computer",
         "Fav_Subject":   "English ",
         "Hobby"      :   "Code "
+
     },
 
     {
@@ -213,7 +220,14 @@
         
         
         
-        
+    
+    
+      {
+        "name":       "Thombare Anuradha",
+        "Branch":      "Information Technology",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Reading"
+    },   
         
         
         
