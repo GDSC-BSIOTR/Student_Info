@@ -476,4 +476,9 @@
         "Fav_Subject":   " DSA ",
         "Hobby"      :   " Dancing "
     },
-]
+
+{  "name":"Aekagra",
+      "Branch": "EnTC",
+      "Fav_Subject": "Maths",
+      "Hobby":"Singing"
+}
