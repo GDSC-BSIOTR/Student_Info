@@ -8,11 +8,11 @@
         "Hobby"      :   "Reading"
 =======
 
-        "name":       "Arman Shaikh",
+        "name":       "Pruthviraj Londhe",
 =======
-        "name":       "lavda Dhokchaule",
+        "name":       "Gaurav Dhokchaule",
 
-        "Branch":      "Computer",
+        "Branch":      "ENTC",
         "Fav_Subject":   "English ",
         "Hobby"      :   "Code "
 
@@ -169,20 +169,7 @@
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
-        {
-        "name":       "Gauri Gadge",
-        "Branch":      "Information Technology",
-        "Fav_Subject":   "Maths",
-        "Hobby"      :   "Coding"
-    },
-        
-         {
-        "name":       "Gaurav Dhokchaule",
-        "Branch":      "Computer",
-        "Fav_Subject":   "Maths",
-        "Hobby"      :   "Coding"
-    },
-=======       
+       
         
         {
     "name":       "KomalG",
@@ -191,7 +178,6 @@
     "Hobby"      :   "painting"
 },
         
-
         
         
          {
@@ -288,7 +274,7 @@
     },
 
 ]
-
+=======
 
     {
         "name":       "Rutuja ",
@@ -319,7 +305,7 @@
 
     }
     
-
+=======
     },
     
     
