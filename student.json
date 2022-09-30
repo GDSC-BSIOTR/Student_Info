@@ -85,3 +85,12 @@
 },
   ]
 }
+
+{
+    "Student": [
+      {
+        "name":       "Alok Singh",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Coding"
+    },
