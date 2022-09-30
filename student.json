@@ -384,6 +384,14 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+        
+     {
+        "name":       "Pratik Lagad",
+        "Branch":      "entc",
+        "Fav_Subject":   "dbms",
+        "Hobby"      :   "Coding"
+    },
+=======
 
 
 ]
