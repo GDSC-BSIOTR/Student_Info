@@ -125,3 +125,9 @@
         "Fav_Subject":   "Mathematics",
         "Hobby"      :   "Dancing"
     },
+        {
+        "name":       "Ajinkya Bhadre",
+        "Branch":      "entc",
+        "Fav_Subject":   "DSA",
+        "Hobby"      :   "Coding"
+    },
