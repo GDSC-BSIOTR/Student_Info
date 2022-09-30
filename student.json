@@ -6,11 +6,9 @@
         "Branch":      "Information Technology",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Reading"
-=======
+
 
         "name":       "Pruthviraj Londhe",
-=======
-        "name":       "Gaurav Dhokchaule",
 
         "Branch":      "ENTC",
         "Fav_Subject":   "English ",
@@ -65,6 +63,25 @@
 
     },
         
+
+        {
+        "name":       "Ankita Atole",
+        "Branch":      "Computer",
+        "Fav_Subject":   "Science",
+        "Hobby"      :   "Reading"
+    },
+        
+        
+        
+        
+      {
+        "name":       "Adwaita Bhadre",
+        "Branch":      "Computer",
+        "Fav_Subject":   "English",
+        "Hobby"      :   "Singing"
+    },
+        
+=======
     {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -72,6 +89,7 @@
       "Hobby"    :    "Sketching"
 
     }
+
             {
         "name":       "ASHISH ",
       "Branch":      " IT ",
@@ -317,6 +335,20 @@
     
 =======
     },
+
+        {
+        "name":       "Pallavi Kolkur",
+        "Branch":      "Electrical",
+        "Fav_Subject":   "Mathematics",
+        "Hobby"      :   "Dancing"
+    },
+        {
+        "name":       "Ajinkya Bhadre",
+        "Branch":      "entc",
+        "Fav_Subject":   "DSA",
+        "Hobby"      :   "Coding"
+    },
+=======
     
     
 
@@ -330,4 +362,5 @@
 
 
 ]
+
 
