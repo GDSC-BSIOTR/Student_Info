@@ -487,4 +487,12 @@
         "Branch":      "Comp",
         "Fav_Subject":   " CNS ",
         "Hobby"      :   " Reading books "
+},
+
+
+{
+        "name":       " Abhijeet ",
+        "Branch":      "Computer",
+        "Fav_Subject":   " Maths ",
+        "Hobby"      :   " Cricket "
     },
