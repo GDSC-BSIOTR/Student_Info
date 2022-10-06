@@ -265,7 +265,12 @@
         "Hobby"      :   "Reading"
     },   
         
-        
+    {
+        "name":       "Maxtern",
+        "Branch":      "BCA",
+        "Fav_Subject":   "DBMS",
+        "Hobby"      :   "Reading"
+    },     
         
         
         
