@@ -511,22 +511,25 @@
         "Branch":      "IT",
         "Fav_Subject":   " Maths ",
         "Hobby"      :   "READING BOOKS" 
-}  
+},  
     {
         "name":       " Vaishali",
         "Branch":      "Information Technology",
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   "Listening music "
     },
-{
+    {
+        "name":       " Abhijit",
+        "Branch":      "MCA",
+        "Fav_Subject":   " CPP ",
+        "Hobby"      :   "Cricket "
+    },
+    {
 
         "name":       " Kishori",
-
         "Branch":      "ENTC",
-
         "Fav_Subject":   " DBMS ",
-
-        "Hobby"      :   " Travelling"
+         "Hobby"      :   " Travelling"
 
     },
 
@@ -541,3 +544,5 @@
       "Hobby"    : "cricket"
 
     } ,
+    ]
+    }
