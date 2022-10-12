@@ -562,6 +562,28 @@
     "Acheivments" : "SIH Finalist"
     "Hobby" :"Programming"
 }
+{
+    "Student": [
+      {
+
+        "name":       "adesh  rathod",
+        "Branch":      "artifical intelligence",
+=======
+
+        "name":       "sahil kambre",
+        "Branch":      "Information Technology",
+
+        "Fav_Subject":   "biology",
+        "Hobby"      :   "writing"
+
+
+        "name":       "abhay lamb ",
+
+        "Branch":      "robotics ",
+        "Fav_Subject":   "marathi ",
+        "Hobby"      :   "singing"
+
+    },
 
 ,
 {
