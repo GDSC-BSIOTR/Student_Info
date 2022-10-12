@@ -549,5 +549,11 @@
             "Fav_Subject": "Java",
             "Hobby": "Trekking"
         },
+        {
+            "name": "Manish",
+            "Branch": "Mca",
+            "Fav_Subject": "CPP",
+            "Hobby": "Cricket"
+        }
     ]
 }
