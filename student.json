@@ -399,7 +399,24 @@
         "Hobby"      :   "Coding"
     },
 =======
-    
+     {
+        "name":       "Chinmay K",
+        "Branch":      "Artificial intelligence & Data Science",
+        "Fav_Subject":   "Artificial intelligence",
+        "Hobby"      :   "typing"
+    },
+{
+        "name":       "Omkar K",
+        "Branch":      "Artificial intelligence & Data Science",
+        "Fav_Subject":   "DM",
+        "Hobby"      :   "Cricket"
+    },
+{
+     "name":       "Vedarth K ",
+        "Branch":      "Artificial intelligence & Data Science",
+        "Fav_Subject":   "DM",
+        "Hobby"      :   "GAMING"
+    },
     
 
 
