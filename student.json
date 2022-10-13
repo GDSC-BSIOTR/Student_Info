@@ -20,6 +20,26 @@
         "Hobby"      :   "Code "
 
     },
+         {
+
+        "name":       "Rutuja Jadhav",
+        "Branch":      "Electronics",
+=======
+
+        "name":       "darshana Patil",
+        "Branch":      "Information Technology",
+
+        "Fav_Subject":   "Engineering Drawing",
+        "Hobby"      :   "Instagram"
+
+
+        "name":       "Pruthviraj Deshmukh",
+
+        "Branch":      "Civil",
+        "Fav_Subject":   "Engineering Mechanics",
+        "Hobby"      :   "Constructing Bridges "
+
+    },
 
     {
 
