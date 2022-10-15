@@ -628,6 +628,12 @@
     "Branch" : "Computer"
     "Fav_Subject" : " Data Structures and Algorithms",
     "Hobby" :"Typing"
+},
+{
+    "name":       "Pallavi Kolkur",
+    "Branch":      "Electrical",
+    "Fav_Subject":   "Mathematics",
+    "Hobby"      :   "Dancing"
 }
 
     ]
