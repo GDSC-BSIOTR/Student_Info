@@ -554,6 +554,18 @@
             "Branch": "Mca",
             "Fav_Subject": "CPP",
             "Hobby": "Cricket"
+        },
+       {
+            "name": "Papia",
+            "Branch": "MCA",
+            "Fav_Subject": "CPP",
+            "Hobby": "Painting"
+         },
+        {
+            "name" : "Koushik Dutta",
+            "Branch" : "BCA",
+            "Fav_Subject" : "JavaScript",
+            "Hobby" : "Travelling"
         }
     ]
 }
