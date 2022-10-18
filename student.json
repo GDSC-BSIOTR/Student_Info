@@ -640,6 +640,12 @@
     "Branch":      "Ece",
     "Fav_Subject":   "DBMS",
     "Hobby"      :   "Cricket"
+},
+{
+    "name":       "Abhijit Mondal",
+    "Branch":      "Mca",
+    "Fav_Subject":   "Mathematics",
+    "Hobby"      :   "Reading"
 }
 
     ]
