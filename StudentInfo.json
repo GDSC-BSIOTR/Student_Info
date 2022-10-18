@@ -566,6 +566,12 @@
             "Branch" : "BCA",
             "Fav_Subject" : "JavaScript",
             "Hobby" : "Travelling"
+        },
+        {
+            "name":       "Riya kumar",
+            "Branch":      "BSC",
+            "Fav_Subject": "Math",
+            "Hobby"    : "batmintton"
         }
     ]
 }
