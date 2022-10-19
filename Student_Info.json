@@ -1,0 +1,571 @@
+{
+    "Student": [
+        {
+            "name": "Rajdeep",
+            "Branch": "Computer Science",
+            "Fav_Subject": "DSA",
+            "Hobby": "Story Book Reading"
+        },
+        {
+            "name": "Sambit",
+            "Branch": "Information Technology",
+            "Fav_Subject": "C++",
+            "Hobby": "Coding "
+        },
+        {
+            "name": "Chayan",
+            "Branch": "Electronics",
+            "Fav_Subject": "English",
+            "Hobby": "Gardening"
+        },
+        {
+            "name": "Chetan",
+            "Branch": "Food Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Srinanda",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Gourab",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Football"
+        },
+        {
+            "name": "Argha",
+            "Branch": "Food Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Shreyan",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Math",
+            "Hobby": "Drawing"
+        },
+        {
+            "name": "Anjali",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Dancing"
+        },
+        {
+            "name": "Ahona",
+            "Branch": "Mechanical",
+            "Fav_Subject": "English",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Anamitra",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Recitation"
+        },
+        {
+            "name": "Ankit",
+            "Branch": "Food Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Sanjana",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Drawing"
+        },
+        {
+            "name": "Aryan",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Himanshu",
+            "Branch": "Civil",
+            "Fav_Subject": "Maths",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Atalanta",
+            "Branch": "Electronics",
+            "Fav_Subject": "Maths",
+            "Hobby": "Vlogging"
+        },
+        {
+            "name": "Ahili",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Singing"
+        }
+        {
+            "name": "Sneha",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Suchismita",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Classical dancing"
+        },
+        {
+            "name": "Raju",
+            "Branch": "Electronis",
+            "Fav_Subject": "English",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Ankuri",
+            "Branch": "Information Technology",
+            "Fav_Subject": "DBMS",
+            "Hobby": "Coding"
+        },
+        {
+            "name": "Sampriti",
+            "Branch": "Electronics",
+            "Fav_Subject": "Maths",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Raja",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Akhil",
+            "Branch": "Food Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Anwesha",
+            "Branch": "Computer Science",
+            "Fav_Subject": "C++",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Amit",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Math",
+            "Hobby": "Trekking"
+        },
+        
+    ]
+}
+    {
+    "Student": [
+        {
+            "name": "Vaibhav",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Karan",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Ashish",
+            "Branch": "Electronics",
+            "Fav_Subject": "Math",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Pritam",
+            "Branch": "Information Technology",
+            "Fav_Subject": "DBMS",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Arundhuti",
+            "Branch": "Food Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Shweta",
+            "Branch": "Computer Science",
+            "Fav_Subject": "English",
+            "Hobby": "classical Dancing"
+        },
+        {
+            "name": "Susmit",
+            "Branch": "Electronics",
+            "Fav_Subject": "Maths",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Praveen",
+            "Branch": "Electrical",
+            "Fav_Subject": "English",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Sunidhi",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Anuradha",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Ritwik",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Bartick",
+            "Branch": "Fashion Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Anirban",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Painting"
+        },
+        {
+            "name": "Debanjana",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Classical dancing"
+        },
+        {
+            "name": "Urbi",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Coding"
+        },
+        {
+            "name": "Somtirtha",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "swimming"
+        },
+        {
+            "name": "Srijit",
+            "Branch": "Electronics",
+            "Fav_Subject": "Science",
+            "Hobby": "Singing"
+        }
+            {
+            "name": "Jeet",
+            "Branch": "Fashion Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Tina",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Java",
+            "Hobby": "Classical dancing"
+        },
+        {
+            "name": "Souvik",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Maths",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Hrittik",
+            "Branch": "Mechanical",
+            "Fav_Subject": "English",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Sagnik",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Mrinal",
+            "Branch": "Electronics",
+            "Fav_Subject": "English",
+            "Hobby": "Painting"
+        },
+        {
+            "name": "Tushar",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Java",
+            "Hobby": "Coding"
+        },
+        {
+            "name": "Eshita",
+            "Branch": "Electronics",
+            "Fav_Subject": "Science",
+            "Hobby": "Reading"
+        }
+        {
+            "name": "Srijan",
+            "Branch": "Information Technology",
+            "Fav_Subject": "DBMS",
+            "Hobby": "Coding"
+        },
+        {
+            "name": "Partha",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Shreya",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Mohit",
+            "Branch": "Fashion Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Vinita",
+            "Branch": "Civil",
+            "Fav_Subject": "Maths",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Animesh",
+            "Branch": "Mechanical",
+            "Fav_Subject": "English",
+            "Hobby": "Reading"
+        },
+    ]
+}
+        {
+    "Student": [
+        {
+            "name": "Pramit",
+            "Branch": "Electrical",
+            "Fav_Subject": "Python",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Sanjana",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Dancing"
+        },
+        {
+            "name": "Ranit",
+            "Branch": "Electrical",
+            "Fav_Subject": "Math",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Amit",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Recitation"
+        },
+        {
+            "name": "Indrakalpa",
+            "Branch": "Food Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Drawing"
+        },
+        {
+            "name": "Suhani",
+            "Branch": "Electronics",
+            "Fav_Subject": "Maths",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Tanishka",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Rachita",
+            "Branch": "Mechanical",
+            "Fav_Subject": "English",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Sayantani",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Java",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Swarnim",
+            "Branch": "Computer Science",
+            "Fav_Subject": "DBMS",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Shreyan",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Satatya",
+            "Branch": "Fashion Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Kamal",
+            "Branch": "Electronics",
+            "Fav_Subject": "English",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Srijita",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Classical dancing"
+        },
+        {
+            "name": "Tiasha",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Trisha",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Rahul",
+            "Branch": "Computer Science",
+            "Fav_Subject": "DBMS",
+            "Hobby": "Reading"
+        }
+                {
+            "name": "Sonali",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Akash",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Python",
+            "Hobby": "Cricket"
+        },
+        {
+            "name": "Sayantika",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Tanmoy",
+            "Branch": "Food Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Deep",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Swimming"
+        },
+        {
+            "name": "Ankita",
+            "Branch": "Electrical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Jyotirmoy",
+            "Branch": "Civil",
+            "Fav_Subject": "English",
+            "Hobby": "Reading"
+        },
+        {
+            "name": "Dibendu",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Science",
+            "Hobby": "Sketching"
+        },
+        {
+            "name": "Madhuri",
+            "Branch": "Electrical",
+            "Fav_Subject": "English",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Saheli",
+            "Branch": "Fashion Technology",
+            "Fav_Subject": "English",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Arpita",
+            "Branch": "Electrical",
+            "Fav_Subject": "Math",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Yash",
+            "Branch": "Mechanical",
+            "Fav_Subject": "Maths",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Sulogna",
+            "Branch": "Food Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Classical Dancing"
+        },
+        {
+            "name": "Kajal",
+            "Branch": "Civil",
+            "Fav_Subject": "Maths",
+            "Hobby": "Singing"
+        },
+        {
+            "name": "Ananya",
+            "Branch": "Information Technology",
+            "Fav_Subject": "Maths",
+            "Hobby": "Travelling"
+        },
+        {
+            "name": "Pramit",
+            "Branch": "Computer Science",
+            "Fav_Subject": "Python",
+            "Hobby": "Trekking"
+        },
+        {
+            "name": "Indra",
+            "Branch": "BCA",
+            "Fav_Subject": "Java",
+            "Hobby": "Cricket"
+        },
+       {
+            "name": "Priti",
+            "Branch": "MCA",
+            "Fav_Subject": "CPP",
+            "Hobby": "Singing"
+         },
+        {
+            "name" : "Harsh",
+            "Branch" : "Electrical",
+            "Fav_Subject" : "Maths",
+            "Hobby" : "Travelling"
+        }
+    ]
+}
