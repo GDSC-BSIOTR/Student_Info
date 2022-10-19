@@ -210,6 +210,12 @@
             "Hobby": "Sketching"
         },
         {
+            "name": "Anik",
+            "Branch": "BCA",
+            "Fav_Subject": "App Development",
+            "Hobby": "Photography"
+        },
+        {
             "name": "Siddhi",
             "Branch": "Computer",
             "Fav_Subject": "Python",
