@@ -156,11 +156,6 @@
             "Fav_Subject": "English",
             "Hobby": "Trekking"
         },
-        
-    ]
-}
-    {
-    "Student": [
         {
             "name": "Vidya",
             "Branch": "Computer Science",
@@ -347,10 +342,6 @@
             "Fav_Subject": "English",
             "Hobby": "Reading"
         },
-    ]
-}
-        {
-    "Student": [
         {
             "name": "Pranoti",
             "Branch": "Information Technology",
@@ -566,6 +557,12 @@
             "Branch" : "BCA",
             "Fav_Subject" : "JavaScript",
             "Hobby" : "Travelling"
+        },
+        {
+            "name":       "Riya kumar",
+            "Branch":      "BSC",
+            "Fav_Subject": "Math",
+            "Hobby"    : "batmintton"
         }
     ]
 }
