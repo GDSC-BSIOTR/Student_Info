@@ -2,19 +2,14 @@
     "Student": [
       {
 
-        "name":       "Satyam Kharate",
-        "Branch":      "Electronics",
-=======
-
         "name":       "Thombare Anuradha",
         "Branch":      "Information Technology",
-
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Reading"
 
-
+      },
+      {
         "name":       "Pruthviraj Londhe",
-
         "Branch":      "ENTC",
         "Fav_Subject":   "English ",
         "Hobby"      :   "Code "
@@ -22,37 +17,28 @@
     },
          {
 
-        "name":       "Rutuja Jadhav",
-        "Branch":      "Electronics",
-=======
-
         "name":       "darshana Patil",
         "Branch":      "Information Technology",
-
         "Fav_Subject":   "Engineering Drawing",
         "Hobby"      :   "Instagram"
-
+      },
+      {
 
         "name":       "Pruthviraj Deshmukh",
-
         "Branch":      "Civil",
         "Fav_Subject":   "Engineering Mechanics",
         "Hobby"      :   "Constructing Bridges "
 
     },
-
     {
 
       "name":       "Pradeep Koli",
       "Branch":      "Computer",
       "Fav_Subject": "Maths",
       "Hobby"    : "Cricket"
-=======
-
-      "name":       "Yash Sonawane ",
-=======
+},
+{
       "name":       "pruthviraj Mali",
-
       "Branch":      "Computer",
       "Fav_Subject": "Sanskrit ",
       "Hobby"    : "Football"
@@ -87,35 +73,24 @@
       "Hobby"    : "Travelling"
 
     },
-
-=======
          {
         "name":       "bhargavi",
       "Branch":      "E & TC",
       "Fav_Subject": "english",
       "Hobby"    : "singing"
-
-    },
-        
-
+},
         {
         "name":       "Ankita Atole",
         "Branch":      "Computer",
         "Fav_Subject":   "Science",
         "Hobby"      :   "Reading"
-    },
-        
-        
-        
-        
+    }, 
       {
         "name":       "Adwaita Bhadre",
         "Branch":      "Computer",
         "Fav_Subject":   "English",
         "Hobby"      :   "Singing"
     },
-        
-=======
     {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -195,7 +170,7 @@
     "Branch":      "Entc",
     "Fav_Subject":   "DBMS",
     "Hobby"      :   "Coding"
-=======
+},
 {        
         "name":       "Pranita",
       "Branch":      "Entc",
@@ -203,13 +178,7 @@
       "Hobby"    :    "Sketching"
 
     },
-  ]
-
-}
-
-{
-    "Student": [
-      {
+    {
         "name":       "Alok Singh",
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
@@ -220,9 +189,6 @@
     "Fav_Subject":   "Java",
     "Hobby"      :   "Coding"
 },
-
-    },
-        
          {
         "name":       "Gaurav Dhokchaule",
         "Branch":      "Computer",
@@ -237,28 +203,18 @@
     "Fav_Subject":   "developments",
     "Hobby"      :   "painting"
 },
-        
-        
-        
          {
         "name":       "Prathamesh Ilag",
         "Branch":      "IT",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Cricket"
     },
-        
-=======
         {
          "name":         "saif ali",
          "branch":       "information technology",
          "fav_subject":  "OS",
          "hobby":        "football",
     },
-
-              
-=======
-      
-    
         {
         "name":     "Omshree Gavhane",
         "Branch":   "Computer",
@@ -273,22 +229,14 @@
         "Fav_Subject":   "English",
         "Hobby"      :   "Coding"
     },
-        
-        
-        
-    
-    
+      
       {
         "name":       "Thombare Anuradha",
         "Branch":      "Information Technology",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Reading"
     },   
-        
-        
-        
-        
-        
+      
         {
       "name":       "Anuja chavan",
       "Branch":      "IT",
@@ -314,46 +262,25 @@
       "Hobby"    : "cricket"
 
     } ,
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+  
          {
         "name":       "Soham Auti",
         "Branch":      "E & TC",
         "Fav_Subject":   "Mathematics",
         "Hobby"      :   "sports"
-    },
-        
-        
-        
-        
-            {
+    },  
+      {
         "name":       "Rushikesh suryawanshi",
         "Branch":      "Computer",
         "Fav_Subject":   "DBMS",
         "Hobby"      :   "COmipitative programming"
-    }
+    },
 {
         "name":       "Shritej Sankpal",
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
     },
-
-]
-=======
-
     {
         "name":       "Rutuja ",
       "Branch":      "EnTC",
@@ -374,36 +301,23 @@
         "Fav_Subject":   "Computer Graphics",
         "Hobby"      :   "Digital Designing"
     },
-        
-
-{
-    "Student": [
       {
         "name":       "SAHIL",
         "Branch":      "ITr",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
-    },
-
-        
-        
+    },   
      {
         "name":       "ABHIRAJ RODE",
         "Branch":      "E & TC",
         "Fav_Subject":   "ELECTRONICS",
         "Hobby"      :   "TABLE TENNIS"
     },
-=======
-=======
     {
         "name":       " SAHIL YADAV ",
         "Branch":      " I.T",
         "Fav_Subject":   " DSS ",
         "Hobby"      :   " PLAYING GUITAR "
-
-    }
-    
-=======
     },
 
         {
@@ -418,7 +332,6 @@
         "Fav_Subject":   "DSA",
         "Hobby"      :   "Coding"
     },
-=======
      {
         "name":       "Chinmay K",
         "Branch":      "Artificial intelligence & Data Science",
@@ -528,7 +441,7 @@
       "Branch": "EnTC",
       "Fav_Subject": "Maths",
       "Hobby":"Singing"
-}
+},
 {
         "name":       " Shailesh magar",
         "Branch":      "Comp",
@@ -571,59 +484,32 @@
     },
 
  {
-
       "name":       "prashant",
-
       "Branch":      "Version",
-
       "Fav_Subject": "Maths",
-
       "Hobby"    : "cricket"
-
     } ,
-
  {
-
       "name":       "Abhishek",
-
       "Branch":      "Computer Science",
-
       "Fav_Subject": "Data Structures",
-
       "Hobby"    : "Table Tennis"
 
     } ,
-{
+    {
     "Name" : "Lokesh Malviya"
     "Branch" : "CS"
     "Acheivments" : "SIH Finalist"
     "Hobby" :"Programming"
-}
-{
-    "Student": [
-      {
-
-        "name":       "adesh  rathod",
-        "Branch":      "artifical intelligence",
-=======
-
-        "name":       "sahil kambre",
-        "Branch":      "Information Technology",
-
-        "Fav_Subject":   "biology",
-        "Hobby"      :   "writing"
-
-
+        },
+        {
         "name":       "abhay lamb ",
-
         "Branch":      "robotics ",
         "Fav_Subject":   "marathi ",
         "Hobby"      :   "singing"
 
-    },
-
-,
-{
+        },
+        {
     "Name" : "Suhaan Bhandary"
     "Branch" : "Computer"
     "Fav_Subject" : " Data Structures and Algorithms",
@@ -658,14 +544,13 @@
     "Branch":      "IT",
     "Fav_Subject":   "PHP",
     "Hobby"      :   "Reading"
-
-
 },
+{
 "name":       "Jit Ghosh",
  "Branch":      "BCA",
  "Fav_Subject": "Computer",
    "Hobby"    : "Gaming"
-}
+},
 {
     "name":       "Abhishek Nerkar",
     "Branch":      "Computer",
