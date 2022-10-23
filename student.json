@@ -665,6 +665,19 @@
  "Branch":      "BCA",
  "Fav_Subject": "Computer",
    "Hobby"    : "Gaming"
+},
+{
+    "name":       "Sumit Khandare",
+    "Branch":      "ENTC",
+    "Fav_Subject":   "Java",
+    "Hobby"      :   "Drawing"
+},
+{
+    "name":       "Shivam Raut",
+    "Branch":      "CSE",
+    "Fav_Subject":   "PPS",
+    "Hobby"      :   "Swimming"
 }
-}
+
 ]
+}
