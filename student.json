@@ -552,6 +552,18 @@
    "Hobby"    : "Gaming"
 },
 {
+    "name":       "Sumit Khandare",
+    "Branch":      "ENTC",
+    "Fav_Subject":   "Java",
+    "Hobby"      :   "Drawing"
+},
+{
+    "name":       "Shivam Raut",
+    "Branch":      "CSE",
+    "Fav_Subject":   "PPS",
+    "Hobby"      :   "Swimming"
+},
+{
     "name":       "Abhishek Nerkar",
     "Branch":      "Computer",
     "Fav_Subject":   "Object Oriented Programming",
@@ -564,8 +576,7 @@
     "Branch":      "CS",
     "Fav_Subject":   "DATABASE SYSTEMS",
     "Hobby"      :   "OUTDOOR GAMES"
-
-
 }
-}
+
 ]
+}
