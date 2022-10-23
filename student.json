@@ -552,6 +552,13 @@
    "Hobby"    : "Gaming"
 },
 {
+ "name": "Tejas Deshmukh",
+ "Branch": "IT",
+ "Fav_Subject": "ADBMS",
+   "Hobby"    : "Gaming"
+
+},
+{
     "name":       "Sumit Khandare",
     "Branch":      "ENTC",
     "Fav_Subject":   "Java",
