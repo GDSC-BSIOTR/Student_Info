@@ -8,6 +8,15 @@
         "Hobby"      :   "Reading"
 
       },
+        
+        
+        {
+        "name":       "Sameer Bhatia",
+        "Branch":      "CSE",
+        "Fav_Subject":   "Mathematics ",
+        "Hobby"      :   "Painting "
+
+    },
       {
         "name":       "Pruthviraj Londhe",
         "Branch":      "ENTC",
@@ -589,12 +598,19 @@
     "Branch":      "CS",
     "Fav_Subject":   "DATABASE SYSTEMS",
     "Hobby"      :   "OUTDOOR GAMES"
-}
-]
 },
 {
     "name":       "Muskan Mishra",
     "Branch":      "BCA",
     "Fav_Subject":   "physics",
     "Hobby"      :   "Badminton"
+},
+{
+    "name":       "Jit avi Ghosh",
+    "Branch":      "MCA",
+    "Fav_Subject":  " Mathematics",
+    "Hobby"      :   "Drawing"
+
+}
+]
 }
