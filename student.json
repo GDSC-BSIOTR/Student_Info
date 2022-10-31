@@ -617,6 +617,13 @@
   "Branch":       "MCA",
   "Fav_Subject":  "Mathematics",
   "Hobby"      :  "Listening music"
-}
+},
+{
+        "name":       "Nischal Gupta",
+        "Branch":      "ENTC",
+        "Fav_Subject":   "OOP",
+        "Hobby"      :   "painting"
+
+    }
 ]
 }
