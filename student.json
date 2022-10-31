@@ -617,12 +617,26 @@
   "Branch":       "MCA",
   "Fav_Subject":  "Mathematics",
   "Hobby"      :  "Listening music"
-}
-]
 },
+{
+        "name":       "Nischal Gupta",
+        "Branch":      "ENTC",
+        "Fav_Subject":   "OOP",
+        "Hobby"      :   "painting"
+
+    },
+{
+        "name":       "Surajit Ghosh",
+        "Branch":      "BCA",
+        "Fav_Subject":   "English",
+        "Hobby"      :   "programming"
+
+    }
+    },
 {
   "name":         "Kunal Ghosh",
   "Branch":       "BCA",
   "Fav_Subject":  "Mathematics",
   "Hobby"      :  "playing game"
 }
+]
